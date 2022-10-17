@@ -22,5 +22,5 @@ Viewing a topographical map indicates that Des Moines, Iowa has varying elevatio
 In order to determine if Citi Bike is an ideal option for Des Moines, we need to consider a few things.
 -Vehicle ownership to resident ratio for both New York and Des Moines.  
 -Is there a density of both residential and commerical in the Des Moines downtown core?
--Is Des Moines easily navigable by bike?
+-Is Des Moines easily navigable by bike?  
 
