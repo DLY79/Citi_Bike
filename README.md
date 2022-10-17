@@ -13,7 +13,7 @@ Most riders are male, and most trips are around 5 minutes long:
 ![Screen Shot 2022-08-12 at 11 07 08 AM](https://user-images.githubusercontent.com/103051630/184370560-2379eca1-6fff-4376-a759-6029c016b976.png)  
 
 ## Summary  
-We know that Citi Bike is a popular mode of transporation, particularly for men. New York's subscriber base makes up the majority of their users and most of the usage happens during the week at rush hour periods.
+We know that Citi Bike is a popular mode of transporation, particularly for men. New York's subscriber base makes up the majority of their users and most of the usage happens during the week at rush hour periods.  
 
 We also know that New York City is densely populated, with a quality public transportation system. New York streets are a grid system, making it more easily navigable.  Additionally, Manhattan is flat.  
 
